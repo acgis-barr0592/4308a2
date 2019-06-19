@@ -1,0 +1,18 @@
+
+<table>
+    <tr>
+        <th>MyID</th>
+        <th>Contributor</th>
+        <th>Title</th>
+        <th>Description</th>
+        <th>Rank</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Nick</td>
+        <td>Coyote Rock Gym</td>
+        <td>Old school rock climbing gym with friendly atmosphere</td>
+        <td>5</td>
+    </tr>
+</table>
+    
